@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "A JavaScript library for calculating sku remain and disabled status / 一个计算sku余量和禁用状态的js库",
   "main": "index.js",
+  "private": false,
   "scripts": {
     "build": "rollup -c",
     "test": "vitest"
